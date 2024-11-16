@@ -174,9 +174,23 @@
               "icon": "lucide-file",
               "title": "12. Реализации коллекций - List"
             }
+          },
+          {
+            "id": "7e973a0c85ad6beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Реализации коллекций - Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Реализации коллекций - Map"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -328,13 +342,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d24a157b42b7957",
+  "active": "7e973a0c85ad6beb",
   "lastOpenFiles": [
+    "12. Реализации коллекций - List.md",
+    "13. Реализации коллекций - Map.md",
+    "pictures/tree_map.png",
+    "2. Класс Object.md",
+    "pictures/hash_map.webp",
     "pictures/array_vs_linked.png",
     "pictures/linked_list.webp",
     "pictures/array_list.webp",
     "11. Разновидности коллекций.md",
-    "12. Реализации коллекций - List.md",
     "10. Итераторы.md",
     "pictures/jcf-hierarchy.webp",
     "9. Перечисления.md",
@@ -347,14 +365,10 @@
     "pictures/exceptions.webp",
     "pictures/static_in_memory.webp",
     "1. Типы в Java.md",
-    "2. Класс Object.md",
     "pictures/abstract_class_constructor.webp",
     "интерфейс.md",
     "pictures/array_before.webp",
-    "pictures/array_after.webp",
     "JavaRush.md",
-    "pictures/array after.webp",
-    "pictures/array before.webp",
     "Типы в Java.md",
     "pictures",
     "screens",
