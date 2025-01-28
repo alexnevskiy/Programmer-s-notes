@@ -174,9 +174,23 @@
               "icon": "lucide-file",
               "title": "27. Паттерны проектирования. Порождающие"
             }
+          },
+          {
+            "id": "256bf462a62368ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28. Паттерны проектирования. Структурные.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28. Паттерны проектирования. Структурные"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -294,10 +308,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27. Паттерны проектирования. Порождающие.md"
+                "file": "28. Паттерны проектирования. Структурные.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 27. Паттерны проектирования. Порождающие"
+              "title": "Outline of 28. Паттерны проектирования. Структурные"
             }
           },
           {
@@ -330,21 +344,22 @@
   },
   "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
-    "pictures/pattern_singleton_structure.png",
-    "pictures/pattern_singleton_problem.png",
-    "pictures/pattern_singleton.png",
-    "pictures/pattern_prototype_structure2.png",
-    "pictures/pattern_prototype_structure1.png",
-    "pictures/pattern_prototype_solution.png",
-    "pictures/pattern_prototype_problem.png",
-    "pictures/pattern_prototype.png",
-    "pictures/pattern_builder_structure.png",
-    "pictures/pattern_builder_solution3.png",
-    "pictures/pattern_builder_solution2.png",
+    "pictures/pattern_proxy_structure.png",
+    "pictures/pattern_proxy_solution.png",
+    "pictures/pattern_proxy_problem.png",
+    "pictures/pattern_proxy.png",
+    "pictures/pattern_flyweight_structure.png",
+    "pictures/pattern_flyweight_solution3.png",
+    "pictures/pattern_flyweight_solution2.png",
+    "pictures/pattern_flyweight_solution1.png",
+    "pictures/pattern_flyweight_problem.png",
+    "pictures/pattern_flyweight.png",
+    "pictures/pattern_facade_structure.png",
+    "27. Паттерны проектирования. Порождающие.md",
+    "28. Паттерны проектирования. Структурные.md",
     "21. Синхронизация потоков.md",
     "22. Locks и синхронизаторы.md",
     "23. Пул потоков и управление задачами.md",
-    "27. Паттерны проектирования. Порождающие.md",
     "26. Рефлексия.md",
     "25. Потокобезопасные коллекции.md",
     "20. Потоки в Java - Thread и Runnable.md",
@@ -365,7 +380,6 @@
     "10. Итераторы.md",
     "11. Разновидности коллекций.md",
     "12. Реализации коллекций - List.md",
-    "13. Реализации коллекций - Map.md",
     "pictures",
     "screens",
     "Новая папка",
