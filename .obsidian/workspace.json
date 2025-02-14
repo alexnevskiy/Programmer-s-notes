@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "33. Spring Framework. Получение доступа к бинам"
             }
+          },
+          {
+            "id": "956adfb4535fbd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "34. Spring Framework. Области видимости и жизненный цикл бинов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "34. Spring Framework. Области видимости и жизненный цикл бинов"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "32. Spring Framework. Добавление бинов в контекст Spring.md",
+                "file": "34. Spring Framework. Области видимости и жизненный цикл бинов.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 32. Spring Framework. Добавление бинов в контекст Spring"
+              "title": "Outline of 34. Spring Framework. Области видимости и жизненный цикл бинов"
             }
           },
           {
@@ -206,21 +220,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fe80b8ddc960732",
+  "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
-    "pictures/spring_3.10.png",
-    "pictures/spring_3.9.png",
-    "pictures/spring_3.8.png",
-    "books/A9wfs25n_1rgnhf6_f30.tmp",
-    "pictures/spring_3.7.png",
-    "pictures/spring_3.6.png",
-    "pictures/spring_3.5.png",
-    "pictures/spring_3.4.png",
-    "pictures/spring_3.3.png",
-    "32. Spring Framework. Добавление бинов в контекст Spring.md",
+    "34. Spring Framework. Области видимости и жизненный цикл бинов.md",
+    "pictures/spring_5.10.png",
+    "pictures/spring_5.9.png",
+    "pictures/spring_5.8.png",
+    "pictures/spring_5.7.png",
+    "pictures/spring_5.6.png",
+    "pictures/spring_5.5.png",
+    "pictures/spring_5.4.png",
+    "pictures/spring_5.3.png",
+    "pictures/spring_5.2.png",
+    "pictures/spring_5.1.png",
     "33. Spring Framework. Получение доступа к бинам.md",
-    "pictures/spring_3.2.png",
-    "pictures/spring_3.1.png",
+    "books/A9wfs25n_1rgnhf6_f30.tmp",
+    "32. Spring Framework. Добавление бинов в контекст Spring.md",
     "31. Spring Framework. Экосистема Spring.md",
     "30. Spring Framework. Введение.md",
     "29. Паттерны проектирования. Поведенческие.md",
@@ -229,7 +244,6 @@
     "26. Рефлексия.md",
     "25. Потокобезопасные коллекции.md",
     "24. Асинхронные задачи и фьючерсы.md",
-    "Pasted image 20250208193858.png",
     "books/Spring_bystro.pdf",
     "21. Синхронизация потоков.md",
     "22. Locks и синхронизаторы.md",
@@ -245,7 +259,6 @@
     "3. Область видимости.md",
     "2. Класс Object.md",
     "1. Типы в Java.md",
-    "17. String Pool.md",
     "pictures",
     "screens",
     "Новая папка",
