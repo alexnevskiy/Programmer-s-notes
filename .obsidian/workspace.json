@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/spring framework/13. Использование источников данных в Spring-приложениях.md",
+                "file": "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Использование источников данных в Spring-приложениях"
+              "title": "14. Транзакции в Spring-приложениях"
             }
           }
         ],
@@ -192,17 +192,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c1094fb2e3af9af",
+  "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
+    "pictures/spring_14.8.png",
+    "pictures/spring_14.7.png",
+    "pictures/spring_14.6.png",
+    "pictures/spring_14.5.png",
+    "pictures/spring_14.4.png",
+    "pictures/spring_14.3.png",
+    "pictures/spring_14.2.png",
+    "java/spring/spring framework/12. Использование конечных точек REST.md",
+    "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
+    "pictures/spring_14.1.png",
+    "java/spring/spring framework/13. Использование источников данных в Spring-приложениях.md",
     "pictures/spring_13.7.png",
     "pictures/spring_13.6.png",
     "pictures/spring_13.5.png",
-    "pictures/spring_13.4.png",
-    "pictures/spring_13.3.png",
-    "pictures/spring_13.2.png",
-    "java/spring/spring framework/12. Использование конечных точек REST.md",
-    "java/spring/spring framework/13. Использование источников данных в Spring-приложениях.md",
-    "pictures/spring_13.1.png",
     "java/spring/spring framework/11. Реализация REST-сервисов.md",
     "java/spring/spring framework/10. Области веб-видимости бинов Spring.md",
     "java/spring/spring framework/9. Реализация веб-приложений со Spring Boot и Spring MVC.md",
@@ -225,7 +230,6 @@
     "java/spring/spring framework/33. Spring Framework. Получение доступа к бинам.md",
     "java/spring/spring framework/32. Spring Framework. Добавление бинов в контекст Spring.md",
     "java/spring/spring framework/31. Spring Framework. Экосистема Spring.md",
-    "java/spring/spring framework/30. Spring Framework. Введение.md",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
@@ -234,10 +238,6 @@
     "Новая папка",
     "java/core",
     "java",
-    "pictures/spring_12.11.png",
-    "pictures/spring_12.10.png",
-    "pictures/spring_12.9.png",
-    "pictures/spring_12.8.png",
     "books/A9wfs25n_1rgnhf6_f30.tmp",
     "books/Spring_bystro.pdf",
     "Без названия.canvas"
