@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
+                "file": "java/spring/spring framework/15. Сохранение данных с помощью Spring Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Транзакции в Spring-приложениях"
+              "title": "15. Сохранение данных с помощью Spring Data"
             }
           }
         ],
@@ -192,22 +192,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2dcafe7f990d00",
+  "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
-    "pictures/spring_14.8.png",
-    "pictures/spring_14.7.png",
-    "pictures/spring_14.6.png",
-    "pictures/spring_14.5.png",
-    "pictures/spring_14.4.png",
-    "pictures/spring_14.3.png",
-    "pictures/spring_14.2.png",
+    "pictures/spring_15.11.png",
+    "pictures/spring_15.10.png",
+    "pictures/spring_15.9.png",
+    "pictures/spring_15.8.png",
+    "pictures/spring_15.7.png",
+    "pictures/spring_15.6.png",
+    "pictures/spring_15.5.png",
+    "pictures/spring_15.4.png",
+    "pictures/spring_15.3.png",
+    "pictures/spring_15.2.png",
     "java/spring/spring framework/12. Использование конечных точек REST.md",
+    "java/spring/spring framework/15. Сохранение данных с помощью Spring Data.md",
+    "pictures/spring_15.1.png",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
-    "pictures/spring_14.1.png",
     "java/spring/spring framework/13. Использование источников данных в Spring-приложениях.md",
-    "pictures/spring_13.7.png",
-    "pictures/spring_13.6.png",
-    "pictures/spring_13.5.png",
     "java/spring/spring framework/11. Реализация REST-сервисов.md",
     "java/spring/spring framework/10. Области веб-видимости бинов Spring.md",
     "java/spring/spring framework/9. Реализация веб-приложений со Spring Boot и Spring MVC.md",
@@ -229,7 +230,6 @@
     "java/spring/spring framework/34. Spring Framework. Области видимости и жизненный цикл бинов.md",
     "java/spring/spring framework/33. Spring Framework. Получение доступа к бинам.md",
     "java/spring/spring framework/32. Spring Framework. Добавление бинов в контекст Spring.md",
-    "java/spring/spring framework/31. Spring Framework. Экосистема Spring.md",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
