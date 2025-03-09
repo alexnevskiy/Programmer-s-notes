@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/spring framework/15. Сохранение данных с помощью Spring Data.md",
+                "file": "java/spring/spring framework/16. Тестирование Spring-приложений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Сохранение данных с помощью Spring Data"
+              "title": "16. Тестирование Spring-приложений"
             }
           }
         ],
@@ -194,19 +194,20 @@
   },
   "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
+    "pictures/spring_16.9.png",
+    "pictures/spring_16.8.png",
+    "pictures/spring_16.7.png",
+    "pictures/spring_16.6.png",
+    "pictures/spring_16.5.png",
+    "pictures/spring_16.4.png",
+    "pictures/spring_16.3.png",
+    "pictures/spring_16.2.png",
+    "java/spring/spring framework/12. Использование конечных точек REST.md",
+    "java/spring/spring framework/16. Тестирование Spring-приложений.md",
+    "pictures/spring_16.1.png",
+    "java/spring/spring framework/15. Сохранение данных с помощью Spring Data.md",
     "pictures/spring_15.11.png",
     "pictures/spring_15.10.png",
-    "pictures/spring_15.9.png",
-    "pictures/spring_15.8.png",
-    "pictures/spring_15.7.png",
-    "pictures/spring_15.6.png",
-    "pictures/spring_15.5.png",
-    "pictures/spring_15.4.png",
-    "pictures/spring_15.3.png",
-    "pictures/spring_15.2.png",
-    "java/spring/spring framework/12. Использование конечных точек REST.md",
-    "java/spring/spring framework/15. Сохранение данных с помощью Spring Data.md",
-    "pictures/spring_15.1.png",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
     "java/spring/spring framework/13. Использование источников данных в Spring-приложениях.md",
     "java/spring/spring framework/11. Реализация REST-сервисов.md",
@@ -229,7 +230,6 @@
     "java/spring/spring framework/35. Spring Framework. Аспекты и АОП.md",
     "java/spring/spring framework/34. Spring Framework. Области видимости и жизненный цикл бинов.md",
     "java/spring/spring framework/33. Spring Framework. Получение доступа к бинам.md",
-    "java/spring/spring framework/32. Spring Framework. Добавление бинов в контекст Spring.md",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
