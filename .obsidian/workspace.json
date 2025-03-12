@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/spring framework/12. Использование конечных точек REST.md",
+                "file": "sql/2. Транзакции и ACID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Использование конечных точек REST"
+              "title": "2. Транзакции и ACID"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "1. Операторы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sql/1. Операторы.md",
+                "file": "sql/2. Транзакции и ACID.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Операторы"
+              "title": "Outline of 2. Транзакции и ACID"
             }
           },
           {
@@ -194,21 +193,22 @@
   },
   "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
+    "pictures/sql_transaction_isolation_level1.png",
+    "pictures/sql_transaction_consistency.jpg",
+    "pictures/sql_transaction_atomicity.jpg",
+    "pictures/sql_transaction.png",
+    "sql/1. Операторы.md",
+    "sql/2. Транзакции и ACID.md",
+    "pictures/sql_transaction.webp",
+    "java/spring/spring framework/12. Использование конечных точек REST.md",
     "pictures/sql_window_function5.png",
     "pictures/sql_window_function4.png",
     "pictures/sql_window_function3.png",
     "pictures/sql_window_function2.png",
-    "java/spring/spring framework/12. Использование конечных точек REST.md",
-    "sql/1. Операторы.md",
     "pictures/sql_window_function1.png",
     "pictures/sql_full_join.png",
-    "pictures/sql_right_join.png",
-    "pictures/sql_left_join.png",
-    "pictures/sql_inner_join.png",
-    "Pasted image 20250311155943.png",
     "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
     "sql",
-    "pictures/spring_bean_lifecycle.jpg",
     "java/spring/spring framework/16. Тестирование Spring-приложений.md",
     "java/spring/spring framework/15. Сохранение данных с помощью Spring Data.md",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
@@ -230,7 +230,6 @@
     "java/spring/spring framework/38. Spring Framework. Реализация веб-приложений со Spring Boot и Spring MVC.md",
     "java/spring/spring framework/37. Spring Framework. Краткое введение в HTTP.md",
     "java/spring/spring framework/36. Spring Framework. Введение в Spring Boot и Spring MVC.md",
-    "java/spring/spring framework/35. Spring Framework. Аспекты и АОП.md",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
