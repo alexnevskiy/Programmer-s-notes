@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3c1094fb2e3af9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sql/1. Операторы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Операторы"
+            }
+          },
+          {
             "id": "f3a31186e193b466",
             "type": "leaf",
             "state": {
@@ -22,20 +36,21 @@
             }
           },
           {
-            "id": "3c1094fb2e3af9af",
+            "id": "297d2902e44d0062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql/1. Операторы.md",
+                "file": "sql/3. Блокировки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Операторы"
+              "title": "3. Блокировки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sql/2. Транзакции и ACID.md",
+                "file": "sql/3. Блокировки.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Транзакции и ACID"
+              "title": "Outline of 3. Блокировки"
             }
           },
           {
@@ -191,22 +206,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2dcafe7f990d00",
+  "active": "297d2902e44d0062",
   "lastOpenFiles": [
+    "pictures/sql_lock_optimistic.png",
+    "sql/2. Транзакции и ACID.md",
+    "sql/1. Операторы.md",
+    "sql/3. Блокировки.md",
+    "pictures/sql_lock_pessimistic.png",
     "pictures/sql_transaction_isolation_level1.png",
     "pictures/sql_transaction_consistency.jpg",
     "pictures/sql_transaction_atomicity.jpg",
     "pictures/sql_transaction.png",
-    "sql/1. Операторы.md",
-    "sql/2. Транзакции и ACID.md",
     "pictures/sql_transaction.webp",
     "java/spring/spring framework/12. Использование конечных точек REST.md",
     "pictures/sql_window_function5.png",
     "pictures/sql_window_function4.png",
     "pictures/sql_window_function3.png",
     "pictures/sql_window_function2.png",
-    "pictures/sql_window_function1.png",
-    "pictures/sql_full_join.png",
     "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
     "sql",
     "java/spring/spring framework/16. Тестирование Spring-приложений.md",
@@ -229,7 +245,6 @@
     "java/spring/spring framework/39. Spring Framework. Области веб-видимости бинов Spring.md",
     "java/spring/spring framework/38. Spring Framework. Реализация веб-приложений со Spring Boot и Spring MVC.md",
     "java/spring/spring framework/37. Spring Framework. Краткое введение в HTTP.md",
-    "java/spring/spring framework/36. Spring Framework. Введение в Spring Boot и Spring MVC.md",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
