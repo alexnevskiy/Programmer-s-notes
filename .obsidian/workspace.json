@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql/3. Блокировки.md",
+                "file": "sql/4. Индексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Блокировки"
+              "title": "4. Индексы"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bac0d5f67801a6e",
@@ -169,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sql/3. Блокировки.md",
+                "file": "sql/4. Индексы.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Блокировки"
+              "title": "Outline of 4. Индексы"
             }
           },
           {
@@ -206,23 +207,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "297d2902e44d0062",
+  "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
-    "pictures/sql_lock_optimistic.png",
+    "pictures/sql_index_fragmentation5.webp",
+    "pictures/sql_index_fragmentation4.webp",
+    "pictures/sql_index_fragmentation3.webp",
+    "pictures/sql_index_fragmentation2.webp",
+    "pictures/sql_index_fragmentation1.webp",
+    "pictures/sql_index_text.jpeg",
+    "pictures/sql_index_hash.jpeg",
+    "pictures/sql_index_bitmap.jpeg",
     "sql/2. Транзакции и ACID.md",
-    "sql/1. Операторы.md",
+    "sql/4. Индексы.md",
+    "pictures/sql_index_b_tree.jpeg",
     "sql/3. Блокировки.md",
+    "pictures/sql_lock_optimistic.png",
+    "sql/1. Операторы.md",
     "pictures/sql_lock_pessimistic.png",
-    "pictures/sql_transaction_isolation_level1.png",
-    "pictures/sql_transaction_consistency.jpg",
-    "pictures/sql_transaction_atomicity.jpg",
-    "pictures/sql_transaction.png",
-    "pictures/sql_transaction.webp",
     "java/spring/spring framework/12. Использование конечных точек REST.md",
-    "pictures/sql_window_function5.png",
-    "pictures/sql_window_function4.png",
-    "pictures/sql_window_function3.png",
-    "pictures/sql_window_function2.png",
     "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
     "sql",
     "java/spring/spring framework/16. Тестирование Spring-приложений.md",
@@ -244,7 +246,6 @@
     "java/spring/spring framework/40. Spring Framework. Реализация REST-сервисов.md",
     "java/spring/spring framework/39. Spring Framework. Области веб-видимости бинов Spring.md",
     "java/spring/spring framework/38. Spring Framework. Реализация веб-приложений со Spring Boot и Spring MVC.md",
-    "java/spring/spring framework/37. Spring Framework. Краткое введение в HTTP.md",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
