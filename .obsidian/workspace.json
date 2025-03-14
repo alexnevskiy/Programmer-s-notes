@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql/4. Индексы.md",
+                "file": "sql/5. Представления.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Индексы"
+              "title": "5. Представления"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5bac0d5f67801a6e",
@@ -170,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sql/4. Индексы.md",
+                "file": "sql/5. Представления.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Индексы"
+              "title": "Outline of 5. Представления"
             }
           },
           {
@@ -207,8 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2dcafe7f990d00",
+  "active": "297d2902e44d0062",
   "lastOpenFiles": [
+    "pictures/sql_materialized_view2.png",
+    "pictures/sql_materialized_view1.png",
+    "sql/2. Транзакции и ACID.md",
+    "sql/5. Представления.md",
+    "pictures/sql_view.png",
+    "sql/4. Индексы.md",
     "pictures/sql_index_fragmentation5.webp",
     "pictures/sql_index_fragmentation4.webp",
     "pictures/sql_index_fragmentation3.webp",
@@ -217,13 +222,8 @@
     "pictures/sql_index_text.jpeg",
     "pictures/sql_index_hash.jpeg",
     "pictures/sql_index_bitmap.jpeg",
-    "sql/2. Транзакции и ACID.md",
-    "sql/4. Индексы.md",
-    "pictures/sql_index_b_tree.jpeg",
     "sql/3. Блокировки.md",
-    "pictures/sql_lock_optimistic.png",
     "sql/1. Операторы.md",
-    "pictures/sql_lock_pessimistic.png",
     "java/spring/spring framework/12. Использование конечных точек REST.md",
     "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
     "sql",
@@ -245,7 +245,6 @@
     "patterns/1. Паттерны проектирования. Порождающие.md",
     "java/spring/spring framework/40. Spring Framework. Реализация REST-сервисов.md",
     "java/spring/spring framework/39. Spring Framework. Области веб-видимости бинов Spring.md",
-    "java/spring/spring framework/38. Spring Framework. Реализация веб-приложений со Spring Boot и Spring MVC.md",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
