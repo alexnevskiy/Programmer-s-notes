@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql/5. Представления.md",
+                "file": "oop/1. Принципы ООП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Представления"
+              "title": "1. Принципы ООП"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bac0d5f67801a6e",
@@ -206,12 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "297d2902e44d0062",
+  "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
+    "sql/2. Транзакции и ACID.md",
+    "oop/1. Принципы ООП.md",
+    "sql/5. Представления.md",
+    "oop",
     "pictures/sql_materialized_view2.png",
     "pictures/sql_materialized_view1.png",
-    "sql/2. Транзакции и ACID.md",
-    "sql/5. Представления.md",
     "pictures/sql_view.png",
     "sql/4. Индексы.md",
     "pictures/sql_index_fragmentation5.webp",
@@ -221,7 +224,6 @@
     "pictures/sql_index_fragmentation1.webp",
     "pictures/sql_index_text.jpeg",
     "pictures/sql_index_hash.jpeg",
-    "pictures/sql_index_bitmap.jpeg",
     "sql/3. Блокировки.md",
     "sql/1. Операторы.md",
     "java/spring/spring framework/12. Использование конечных точек REST.md",
@@ -253,7 +255,6 @@
     "Новая папка",
     "java/core",
     "java",
-    "books/A9wfs25n_1rgnhf6_f30.tmp",
     "Без названия.canvas"
   ]
 }
