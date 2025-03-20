@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hibernate/1. Кэширование.md",
+                "file": "hibernate/2. Отношения между сущностями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Кэширование"
+              "title": "2. Отношения между сущностями"
             }
           },
           {
@@ -221,8 +221,9 @@
   },
   "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
-    "sql/2. Транзакции и ACID.md",
     "hibernate/1. Кэширование.md",
+    "hibernate/2. Отношения между сущностями.md",
+    "sql/2. Транзакции и ACID.md",
     "pictures/hibernate_cache.webp",
     "java/core/26. Рефлексия.md",
     "hibernate",
