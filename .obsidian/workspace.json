@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
+                "file": "java/spring/spring framework/18. Распространение транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Стратегии извлечения и проблема N+1 запросов"
+              "title": "18. Распространение транзакции"
             }
           },
           {
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
+                "file": "java/spring/spring framework/18. Распространение транзакции.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Стратегии извлечения и проблема N+1 запросов"
+              "title": "Outline of 18. Распространение транзакции"
             }
           },
           {
@@ -221,10 +221,21 @@
   },
   "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
-    "hibernate/2. Отношения между сущностями.md",
-    "hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
-    "hibernate/1. Кэширование.md",
+    "pictures/spring_transaction_propagation8.png",
+    "pictures/spring_transaction_propagation7.png",
+    "pictures/spring_transaction_propagation6.png",
+    "pictures/spring_transaction_propagation5.png",
+    "pictures/spring_transaction_propagation4.png",
+    "pictures/spring_transaction_propagation.png",
+    "pictures/spring_transaction_propagation3.png",
+    "pictures/spring_transaction_propagation2.png",
     "sql/2. Транзакции и ACID.md",
+    "java/spring/spring framework/18. Распространение транзакции.md",
+    "pictures/spring_transaction_propagation1.png",
+    "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
+    "hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
+    "hibernate/2. Отношения между сущностями.md",
+    "hibernate/1. Кэширование.md",
     "pictures/hibernate_cache.webp",
     "java/core/26. Рефлексия.md",
     "hibernate",
@@ -246,19 +257,8 @@
     "java/core/10. Итераторы.md",
     "java/core/7. Функциональные интерфейсы и лямбды.md",
     "java/core/8. Исключения.md",
-    "java/core/9. Перечисления.md",
-    "java/core/6. Модификатор final.md",
-    "java/core/4. Интерфейсы и абстрактные классы.md",
     "pictures/solid.png",
     "oop",
-    "pictures/sql_materialized_view2.png",
-    "pictures/sql_materialized_view1.png",
-    "pictures/sql_view.png",
-    "pictures/sql_index_fragmentation5.webp",
-    "pictures/sql_index_fragmentation4.webp",
-    "pictures/sql_index_fragmentation3.webp",
-    "pictures/sql_index_fragmentation2.webp",
-    "pictures/sql_index_fragmentation1.webp",
     "sql",
     "java/spring/spring framework",
     "java/spring/Новая папка",
