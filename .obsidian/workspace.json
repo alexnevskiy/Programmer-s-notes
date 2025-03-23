@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/spring framework/18. Распространение транзакции.md",
+                "file": "java/hibernate/1. Кэширование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Распространение транзакции"
+              "title": "1. Кэширование"
             }
           },
           {
@@ -219,8 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c1094fb2e3af9af",
+  "active": "d899a95a0cfde20a",
   "lastOpenFiles": [
+    "java/hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
+    "java/hibernate/2. Отношения между сущностями.md",
+    "java/spring/spring framework/18. Распространение транзакции.md",
     "pictures/spring_transaction_propagation8.png",
     "pictures/spring_transaction_propagation7.png",
     "pictures/spring_transaction_propagation6.png",
@@ -230,15 +233,12 @@
     "pictures/spring_transaction_propagation3.png",
     "pictures/spring_transaction_propagation2.png",
     "sql/2. Транзакции и ACID.md",
-    "java/spring/spring framework/18. Распространение транзакции.md",
     "pictures/spring_transaction_propagation1.png",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
-    "hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
-    "hibernate/2. Отношения между сущностями.md",
-    "hibernate/1. Кэширование.md",
+    "java/hibernate/1. Кэширование.md",
     "pictures/hibernate_cache.webp",
     "java/core/26. Рефлексия.md",
-    "hibernate",
+    "java/hibernate",
     "java/core/25. Потокобезопасные коллекции.md",
     "java/core/24. Асинхронные задачи и фьючерсы.md",
     "java/core/23. Пул потоков и управление задачами.md",
@@ -257,7 +257,6 @@
     "java/core/10. Итераторы.md",
     "java/core/7. Функциональные интерфейсы и лямбды.md",
     "java/core/8. Исключения.md",
-    "pictures/solid.png",
     "oop",
     "sql",
     "java/spring/spring framework",
