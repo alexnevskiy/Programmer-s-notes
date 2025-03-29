@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/core/27. JDK, JRE, JVM.md",
+                "file": "java/core/28. Машинный код и байт-код.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27. JDK, JRE, JVM"
+              "title": "28. Машинный код и байт-код"
             }
           },
           {
@@ -220,13 +220,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2dcafe7f990d00",
+  "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
+    "pictures/machine_code.png",
+    "pictures/byte_code2.png",
+    "sql/2. Транзакции и ACID.md",
+    "java/core/28. Машинный код и байт-код.md",
+    "pictures/byte_code1.png",
+    "java/core/27. JDK, JRE, JVM.md",
     "pictures/jvm_jre_jdk.png",
     "pictures/jdk.png",
     "pictures/jre.png",
-    "sql/2. Транзакции и ACID.md",
-    "java/core/27. JDK, JRE, JVM.md",
     "pictures/jvm.png",
     "development/1. Микросервисная архитектура.md",
     "pictures/microservices2.png",
@@ -238,9 +242,6 @@
     "java/hibernate/2. Отношения между сущностями.md",
     "java/spring/spring framework/18. Распространение транзакции.md",
     "pictures/spring_transaction_propagation8.png",
-    "pictures/spring_transaction_propagation7.png",
-    "pictures/spring_transaction_propagation6.png",
-    "pictures/spring_transaction_propagation5.png",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
     "java/core/26. Рефлексия.md",
     "java/hibernate",
@@ -259,7 +260,6 @@
     "java/core/13. Реализации коллекций - Map.md",
     "java/core/11. Разновидности коллекций.md",
     "java/core/12. Реализации коллекций - List.md",
-    "java/core/10. Итераторы.md",
     "oop",
     "sql",
     "java/spring/spring framework",
