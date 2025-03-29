@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "development/1. Микросервисная архитектура.md",
+                "file": "java/core/27. JDK, JRE, JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Микросервисная архитектура"
+              "title": "27. JDK, JRE, JVM"
             }
           },
           {
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bac0d5f67801a6e",
@@ -221,10 +222,15 @@
   },
   "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
+    "pictures/jvm_jre_jdk.png",
+    "pictures/jdk.png",
+    "pictures/jre.png",
+    "sql/2. Транзакции и ACID.md",
+    "java/core/27. JDK, JRE, JVM.md",
+    "pictures/jvm.png",
+    "development/1. Микросервисная архитектура.md",
     "pictures/microservices2.png",
     "pictures/microservices1.png",
-    "sql/2. Транзакции и ACID.md",
-    "development/1. Микросервисная архитектура.md",
     "pictures/microservices.png",
     "java/hibernate/1. Кэширование.md",
     "development",
@@ -235,10 +241,6 @@
     "pictures/spring_transaction_propagation7.png",
     "pictures/spring_transaction_propagation6.png",
     "pictures/spring_transaction_propagation5.png",
-    "pictures/spring_transaction_propagation4.png",
-    "pictures/spring_transaction_propagation.png",
-    "pictures/spring_transaction_propagation3.png",
-    "pictures/spring_transaction_propagation2.png",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
     "java/core/26. Рефлексия.md",
     "java/hibernate",
@@ -258,7 +260,6 @@
     "java/core/11. Разновидности коллекций.md",
     "java/core/12. Реализации коллекций - List.md",
     "java/core/10. Итераторы.md",
-    "java/core/7. Функциональные интерфейсы и лямбды.md",
     "oop",
     "sql",
     "java/spring/spring framework",
