@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/core/28. Машинный код и байт-код.md",
+                "file": "development/project management/1. Maven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28. Машинный код и байт-код"
+              "title": "1. Maven"
             }
           },
           {
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5bac0d5f67801a6e",
@@ -220,19 +219,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c1094fb2e3af9af",
+  "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
+    "oop/2. Принципы SOLID.md",
+    "development/project management/1. Maven.md",
+    "development/1. Микросервисная архитектура.md",
+    "development/project management",
+    "development/Untitled.md",
+    "java/core/28. Машинный код и байт-код.md",
     "pictures/machine_code.png",
     "pictures/byte_code2.png",
     "sql/2. Транзакции и ACID.md",
-    "java/core/28. Машинный код и байт-код.md",
     "pictures/byte_code1.png",
     "java/core/27. JDK, JRE, JVM.md",
     "pictures/jvm_jre_jdk.png",
     "pictures/jdk.png",
     "pictures/jre.png",
     "pictures/jvm.png",
-    "development/1. Микросервисная архитектура.md",
     "pictures/microservices2.png",
     "pictures/microservices1.png",
     "pictures/microservices.png",
@@ -241,7 +244,6 @@
     "java/hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
     "java/hibernate/2. Отношения между сущностями.md",
     "java/spring/spring framework/18. Распространение транзакции.md",
-    "pictures/spring_transaction_propagation8.png",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
     "java/core/26. Рефлексия.md",
     "java/hibernate",
@@ -258,8 +260,6 @@
     "java/core/15. Дженерики (обобщения).md",
     "java/core/14. Реализации коллекций - Set.md",
     "java/core/13. Реализации коллекций - Map.md",
-    "java/core/11. Разновидности коллекций.md",
-    "java/core/12. Реализации коллекций - List.md",
     "oop",
     "sql",
     "java/spring/spring framework",
@@ -267,7 +267,6 @@
     "java/spring",
     "java/Новая папка",
     "patterns",
-    "Новая папка",
     "Без названия.canvas"
   ]
 }
