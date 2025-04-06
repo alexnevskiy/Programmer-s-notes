@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "development/project management/2. Gradle.md",
+                "file": "development/vcs/1. Git - основные команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Gradle"
+              "title": "1. Git - основные команды"
             }
           },
           {
@@ -220,12 +220,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2dcafe7f990d00",
+  "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
-    "development/project management/1. Maven.md",
-    "sql/2. Транзакции и ACID.md",
-    "development/project management/2. Gradle.md",
+    "pictures/git_commands3.png",
+    "pictures/git_commands2.png",
     "oop/2. Принципы SOLID.md",
+    "oop/1. Принципы ООП.md",
+    "development/project management/1. Maven.md",
+    "development/vcs/1. Git - основные команды.md",
+    "pictures/git_commands1.svg",
+    "development/project management/2. Gradle.md",
+    "development/vcs",
+    "sql/2. Транзакции и ACID.md",
     "development/1. Микросервисная архитектура.md",
     "development/project management",
     "development/Untitled.md",
@@ -239,8 +245,6 @@
     "pictures/jre.png",
     "pictures/jvm.png",
     "pictures/microservices2.png",
-    "pictures/microservices1.png",
-    "pictures/microservices.png",
     "java/hibernate/1. Кэширование.md",
     "development",
     "java/hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
@@ -258,16 +262,12 @@
     "java/core/22. Locks и синхронизаторы.md",
     "java/core/21. Синхронизация потоков.md",
     "java/core/17. String Pool.md",
-    "java/core/16. Устройство памяти.md",
-    "java/core/15. Дженерики (обобщения).md",
-    "java/core/14. Реализации коллекций - Set.md",
     "oop",
     "sql",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
     "java/Новая папка",
-    "patterns",
     "Без названия.canvas"
   ]
 }
