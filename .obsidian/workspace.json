@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "development/vcs/1. Git - основные команды.md",
+                "file": "development/microservices/2. Apache Kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Git - основные команды"
+              "title": "2. Apache Kafka"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "development/project management/2. Gradle.md",
+                "file": "development/microservices/2. Apache Kafka.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Gradle"
+              "title": "Outline of 2. Apache Kafka"
             }
           },
           {
@@ -220,31 +220,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c1094fb2e3af9af",
+  "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
-    "pictures/git_commands3.png",
-    "pictures/git_commands2.png",
+    "pictures/kafka27.png",
+    "pictures/kafka26.gif",
+    "pictures/kafka25.gif",
+    "pictures/kafka24.png",
+    "pictures/kafka23.png",
+    "pictures/kafka22.png",
+    "pictures/kafka21.png",
+    "pictures/kafka20.png",
+    "pictures/kafka19.png",
+    "pictures/kafka18.png",
+    "pictures/kafka17.png",
     "oop/2. Принципы SOLID.md",
     "oop/1. Принципы ООП.md",
     "development/project management/1. Maven.md",
+    "development/microservices/2. Apache Kafka.md",
     "development/vcs/1. Git - основные команды.md",
-    "pictures/git_commands1.svg",
+    "development/microservices",
     "development/project management/2. Gradle.md",
     "development/vcs",
     "sql/2. Транзакции и ACID.md",
-    "development/1. Микросервисная архитектура.md",
+    "development/microservices/1. Микросервисная архитектура.md",
     "development/project management",
     "development/Untitled.md",
     "java/core/28. Машинный код и байт-код.md",
-    "pictures/machine_code.png",
-    "pictures/byte_code2.png",
-    "pictures/byte_code1.png",
     "java/core/27. JDK, JRE, JVM.md",
-    "pictures/jvm_jre_jdk.png",
-    "pictures/jdk.png",
-    "pictures/jre.png",
-    "pictures/jvm.png",
-    "pictures/microservices2.png",
     "java/hibernate/1. Кэширование.md",
     "development",
     "java/hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
@@ -261,13 +263,11 @@
     "java/core/20. Потоки в Java - Thread и Runnable.md",
     "java/core/22. Locks и синхронизаторы.md",
     "java/core/21. Синхронизация потоков.md",
-    "java/core/17. String Pool.md",
     "oop",
     "sql",
     "java/spring/spring framework",
     "java/spring/Новая папка",
     "java/spring",
-    "java/Новая папка",
     "Без названия.canvas"
   ]
 }
