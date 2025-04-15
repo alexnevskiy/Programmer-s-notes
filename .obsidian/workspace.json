@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "development/microservices/3. RabbitMQ.md",
+                "file": "development/microservices/4. gRPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. RabbitMQ"
+              "title": "4. gRPC"
             }
           },
           {
@@ -222,6 +222,15 @@
   },
   "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
+    "pictures/grpc4.png",
+    "pictures/grpc3.png",
+    "pictures/grpc2.png",
+    "development/microservices/2. Apache Kafka.md",
+    "development/microservices/4. gRPC.md",
+    "pictures/grpc1.png",
+    "development/microservices/3. RabbitMQ.md",
+    "oop/2. Принципы SOLID.md",
+    "oop/1. Принципы ООП.md",
     "pictures/rabbitmq25.png",
     "pictures/rabbitmq24.png",
     "pictures/rabbitmq23.png",
@@ -229,15 +238,7 @@
     "pictures/rabbitmq21.png",
     "pictures/rabbitmq20.png",
     "pictures/rabbitmq19.png",
-    "pictures/rabbitmq18.png",
-    "pictures/rabbitmq17.png",
-    "pictures/rabbitmq16.png",
-    "pictures/rabbitmq15.png",
-    "development/microservices/2. Apache Kafka.md",
-    "development/microservices/3. RabbitMQ.md",
     "development/project management/1. Maven.md",
-    "oop/2. Принципы SOLID.md",
-    "oop/1. Принципы ООП.md",
     "development/vcs/1. Git - основные команды.md",
     "development/microservices",
     "development/project management/2. Gradle.md",
@@ -262,7 +263,6 @@
     "java/core/18. Stream API.md",
     "java/core/19. Введение в многопоточность.md",
     "java/core/20. Потоки в Java - Thread и Runnable.md",
-    "java/core/22. Locks и синхронизаторы.md",
     "oop",
     "sql",
     "java/spring/spring framework",
