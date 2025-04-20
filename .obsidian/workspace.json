@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "development/microservices/4. gRPC.md",
+                "file": "patterns/4. MVC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. gRPC"
+              "title": "4. MVC"
             }
           },
           {
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bac0d5f67801a6e",
@@ -222,11 +223,15 @@
   },
   "active": "3c1094fb2e3af9af",
   "lastOpenFiles": [
+    "pictures/mvc3.webp",
+    "pictures/mvc2.webp",
+    "development/microservices/2. Apache Kafka.md",
+    "patterns/4. MVC.md",
+    "pictures/mvc1.jpg",
+    "development/microservices/4. gRPC.md",
     "pictures/grpc4.png",
     "pictures/grpc3.png",
     "pictures/grpc2.png",
-    "development/microservices/2. Apache Kafka.md",
-    "development/microservices/4. gRPC.md",
     "pictures/grpc1.png",
     "development/microservices/3. RabbitMQ.md",
     "oop/2. Принципы SOLID.md",
@@ -235,9 +240,6 @@
     "pictures/rabbitmq24.png",
     "pictures/rabbitmq23.png",
     "pictures/rabbitmq22.png",
-    "pictures/rabbitmq21.png",
-    "pictures/rabbitmq20.png",
-    "pictures/rabbitmq19.png",
     "development/project management/1. Maven.md",
     "development/vcs/1. Git - основные команды.md",
     "development/microservices",
@@ -262,7 +264,6 @@
     "java/core/23. Пул потоков и управление задачами.md",
     "java/core/18. Stream API.md",
     "java/core/19. Введение в многопоточность.md",
-    "java/core/20. Потоки в Java - Thread и Runnable.md",
     "oop",
     "sql",
     "java/spring/spring framework",
