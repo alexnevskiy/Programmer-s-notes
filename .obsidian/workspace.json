@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "development/web/1. SOAP.md",
+                "file": "development/deployment/1. Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. SOAP"
+              "title": "1. Docker"
             }
           },
           {
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bac0d5f67801a6e",
@@ -183,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "development/microservices/2. Apache Kafka.md",
+                "file": "development/deployment/1. Docker.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Apache Kafka"
+              "title": "Outline of 1. Docker"
             }
           },
           {
@@ -222,9 +223,14 @@
   },
   "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
-    "pictures/soap2.png",
+    "pictures/docker3.jpg",
+    "pictures/docker2.png",
     "development/microservices/2. Apache Kafka.md",
+    "development/deployment/1. Docker.md",
+    "pictures/docker1.png",
     "development/web/1. SOAP.md",
+    "development/deployment",
+    "pictures/soap2.png",
     "pictures/soap1.png",
     "patterns/4. MVC.md",
     "development/web",
@@ -235,12 +241,9 @@
     "pictures/grpc4.png",
     "pictures/grpc3.png",
     "pictures/grpc2.png",
-    "pictures/grpc1.png",
     "development/microservices/3. RabbitMQ.md",
     "oop/2. Принципы SOLID.md",
     "oop/1. Принципы ООП.md",
-    "pictures/rabbitmq25.png",
-    "pictures/rabbitmq24.png",
     "development/project management/1. Maven.md",
     "development/vcs/1. Git - основные команды.md",
     "development/microservices",
@@ -263,11 +266,9 @@
     "java/core/25. Потокобезопасные коллекции.md",
     "java/core/24. Асинхронные задачи и фьючерсы.md",
     "java/core/23. Пул потоков и управление задачами.md",
-    "java/core/18. Stream API.md",
     "oop",
     "sql",
     "java/spring/spring framework",
-    "java/spring/Новая папка",
     "Без названия.canvas"
   ]
 }
