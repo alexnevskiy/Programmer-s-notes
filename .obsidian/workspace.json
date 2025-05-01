@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "development/deployment/1. Docker.md",
+                "file": "patterns/5. Паттерны микросервисов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Docker"
+              "title": "5. Паттерны микросервисов"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "development/deployment/1. Docker.md",
+                "file": "patterns/5. Паттерны микросервисов.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Docker"
+              "title": "Outline of 5. Паттерны микросервисов"
             }
           },
           {
@@ -223,24 +223,25 @@
   },
   "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
-    "pictures/docker3.jpg",
-    "pictures/docker2.png",
+    "pictures/pattern_microservices28.png",
+    "pictures/pattern_microservices27.png",
+    "pictures/pattern_microservices26.png",
+    "pictures/pattern_microservices25.png",
+    "pictures/pattern_microservices24.png",
+    "pictures/pattern_microservices23.png",
+    "pictures/pattern_microservices22.png",
+    "pictures/pattern_microservices21.png",
+    "pictures/pattern_microservices20.png",
+    "pictures/pattern_microservices19.png",
+    "pictures/pattern_microservices18.png",
     "development/microservices/2. Apache Kafka.md",
+    "patterns/5. Паттерны микросервисов.md",
     "development/deployment/1. Docker.md",
-    "pictures/docker1.png",
     "development/web/1. SOAP.md",
     "development/deployment",
-    "pictures/soap2.png",
-    "pictures/soap1.png",
     "patterns/4. MVC.md",
     "development/web",
-    "pictures/mvc3.webp",
-    "pictures/mvc2.webp",
-    "pictures/mvc1.jpg",
     "development/microservices/4. gRPC.md",
-    "pictures/grpc4.png",
-    "pictures/grpc3.png",
-    "pictures/grpc2.png",
     "development/microservices/3. RabbitMQ.md",
     "oop/2. Принципы SOLID.md",
     "oop/1. Принципы ООП.md",
@@ -265,7 +266,6 @@
     "java/hibernate",
     "java/core/25. Потокобезопасные коллекции.md",
     "java/core/24. Асинхронные задачи и фьючерсы.md",
-    "java/core/23. Пул потоков и управление задачами.md",
     "oop",
     "sql",
     "java/spring/spring framework",
