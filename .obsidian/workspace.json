@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/spring framework/18. Распространение транзакции.md",
+                "file": "java/core/29. Java Memory Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Распространение транзакции"
+              "title": "29. Java Memory Model"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/spring/spring framework/18. Распространение транзакции.md",
+                "file": "java/core/29. Java Memory Model.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 18. Распространение транзакции"
+              "title": "Outline of 29. Java Memory Model"
             }
           },
           {
@@ -178,14 +178,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1099143a832a890e",
+  "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
+    "pictures/jmm2.jpeg",
+    "java/core/8. Исключения.md",
+    "java/core/6. Модификатор final.md",
+    "java/core/29. Java Memory Model.md",
+    "pictures/jmm1.jpeg",
+    "patterns/3. Паттерны проектирования. Поведенческие.md",
+    "patterns/2. Паттерны проектирования. Структурные.md",
+    "patterns/1. Паттерны проектирования. Порождающие.md",
+    "java/core/27. JDK, JRE, JVM.md",
+    "java/core/28. Машинный код и байт-код.md",
+    "java/spring/spring framework/18. Распространение транзакции.md",
     "java/spring/spring framework/13. Использование источников данных в Spring-приложениях.md",
     "java/spring/spring framework/14. Транзакции в Spring-приложениях.md",
     "java/spring/spring framework/15. Сохранение данных с помощью Spring Data.md",
     "java/spring/spring framework/12. Использование конечных точек REST.md",
-    "java/core/29. Java Memory Model.md",
-    "java/spring/spring framework/18. Распространение транзакции.md",
     "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
     "java/spring/spring framework/16. Тестирование Spring-приложений.md",
     "java/spring/spring framework/11. Реализация REST-сервисов.md",
@@ -198,14 +207,6 @@
     "java/spring/spring framework/4. Получение доступа к бинам.md",
     "java/spring/spring framework/3. Добавление бинов в контекст Spring.md",
     "java/spring/spring framework/2. Экосистема Spring.md",
-    "java/spring/spring framework/1. Введение в Spring.md",
-    "java/core/26. Рефлексия.md",
-    "java/core/25. Потокобезопасные коллекции.md",
-    "java/core/24. Асинхронные задачи и фьючерсы.md",
-    "java/core/23. Пул потоков и управление задачами.md",
-    "java/core/22. Locks и синхронизаторы.md",
-    "java/core/21. Синхронизация потоков.md",
-    "java/core/20. Потоки в Java - Thread и Runnable.md",
     "pictures/pattern_microservices28.png",
     "pictures/pattern_microservices27.png",
     "pictures/pattern_microservices26.png",
@@ -215,7 +216,6 @@
     "pictures/pattern_microservices22.png",
     "pictures/pattern_microservices21.png",
     "pictures/pattern_microservices20.png",
-    "pictures/pattern_microservices19.png",
     "development/deployment",
     "development/web",
     "development/microservices",
