@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
+                "file": "patterns/3. Паттерны проектирования. Поведенческие.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Жизненный цикл контейнера и бинов в Spring"
+              "title": "3. Паттерны проектирования. Поведенческие"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Потоки в Java - Thread и Runnable.md",
+                "file": "oop/2. Принципы SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20. Потоки в Java - Thread и Runnable"
+              "title": "Backlinks for 2. Принципы SOLID"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Потоки в Java - Thread и Runnable.md",
+                "file": "oop/2. Принципы SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20. Потоки в Java - Thread и Runnable"
+              "title": "Outgoing links from 2. Принципы SOLID"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
+                "file": "patterns/3. Паттерны проектирования. Поведенческие.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 17. Жизненный цикл контейнера и бинов в Spring"
+              "title": "Outline of 3. Паттерны проектирования. Поведенческие"
             }
           },
           {
@@ -180,12 +182,22 @@
   },
   "active": "4b2dcafe7f990d00",
   "lastOpenFiles": [
-    "sql/4. Индексы.md",
+    "patterns/2. Паттерны проектирования. Структурные.md",
+    "patterns/1. Паттерны проектирования. Порождающие.md",
+    "patterns/3. Паттерны проектирования. Поведенческие.md",
+    "development/microservices/1. Микросервисная архитектура.md",
+    "development/deployment/1. Docker.md",
     "oop/2. Принципы SOLID.md",
+    "patterns/5. Паттерны микросервисов.md",
+    "patterns/4. MVC.md",
     "oop/1. Принципы ООП.md",
-    "java/hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
-    "java/hibernate/2. Отношения между сущностями.md",
     "java/spring/spring framework/17. Жизненный цикл контейнера и бинов в Spring.md",
+    "java/hibernate/3. Стратегии извлечения и проблема N+1 запросов.md",
+    "sql/3. Блокировки.md",
+    "sql/5. Представления.md",
+    "sql/4. Индексы.md",
+    "sql/2. Транзакции и ACID.md",
+    "java/hibernate/2. Отношения между сущностями.md",
     "java/core/8. Исключения.md",
     "java/core/9. Перечисления.md",
     "java/core/10. Итераторы.md",
@@ -196,16 +208,6 @@
     "java/core/29. Java Memory Model.md",
     "java/core/28. Машинный код и байт-код.md",
     "java/core/24. Асинхронные задачи и фьючерсы.md",
-    "java/core/25. Потокобезопасные коллекции.md",
-    "java/core/26. Рефлексия.md",
-    "java/core/27. JDK, JRE, JVM.md",
-    "java/hibernate/1. Кэширование.md",
-    "java/spring/spring framework/12. Использование конечных точек REST.md",
-    "patterns/3. Паттерны проектирования. Поведенческие.md",
-    "patterns/2. Паттерны проектирования. Структурные.md",
-    "patterns/1. Паттерны проектирования. Порождающие.md",
-    "sql/5. Представления.md",
-    "sql/3. Блокировки.md",
     "books/Spring_bystro.pdf",
     "pictures/jmm2.jpeg",
     "pictures/jmm1.jpeg",
